@@ -1,0 +1,5 @@
+host=cohort5.ctlyqkuczupx.us-east-1.rds.amazonaws.com
+user=admin
+password=whaletale
+node_modules
+.env
